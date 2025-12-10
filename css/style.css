@@ -90,6 +90,3 @@ body {
 .container.active #qr-code {
     opacity: 1;
 }
-
-footer p {
-    font-style: italic;
